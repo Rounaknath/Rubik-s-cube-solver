@@ -1,8 +1,3 @@
-//
-// Created by Shubham Patil on 17/12/21.
-// Modified by Pranav Harresh on 25/07/25.
-//
-
 #include "RubiksCube.h"
 
 //
