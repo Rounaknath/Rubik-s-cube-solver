@@ -1,7 +1,3 @@
-//
-// Created by Pranav on 25-07-2025.
-//
-
 #ifndef STDC_H
 #define STDC_H
 
